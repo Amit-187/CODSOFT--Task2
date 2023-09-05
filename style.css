@@ -1,0 +1,134 @@
+body{
+    margin: 0px;
+    background-color: rgb(35, 34, 34);
+}
+
+.nav_img{
+    width: 200px;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.insta{
+    width: 30px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+    padding: 0px;
+}
+
+.nav_box{
+    background-image: url(images/wim-van-t-einde-ngmqxuqx16o-unsplash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 50px 100px;
+    padding-bottom: 20px;
+    box-shadow: 10px 10px 15px black;
+    color: white;
+}
+
+.nav_a{
+    color: white;
+    text-shadow: 2px 2px 5px white;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 20px;
+    
+}
+
+.nav{
+    text-align: right;
+    /* background-color: white; */
+    padding: 10px;
+    margin-left: 55%;
+    border-bottom-left-radius: 10px;
+}
+
+.nav_p{
+    text-decoration: none;
+    color: cyan;
+    font-size: 35px;
+    margin: 0px;
+    float: left;
+}
+
+.chess{
+    width: 50%;
+    height: 500px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+.head{
+    margin: 20px;
+}
+
+.head_p{
+    text-align: center;
+    margin: 30px;
+}
+
+input{
+    border-radius: 20px;
+    width: 100%;
+    height: 30px;
+}
+
+.btn{
+    margin: 5px;
+    background-color: cyan;
+    border-radius: 20px;
+    padding: 15px 30px;
+    margin-left: 170px;
+    margin-bottom: 25px;
+}
+
+.bt_a{
+    color: black;
+    padding: 30px;
+    text-decoration: none
+}
+
+.follow_btn{
+    margin: 80px 0px;
+}
+
+.info{
+    /* border: 2px solid rgb(39, 37, 37); */
+    margin-right: 50%;
+}
+
+.head_h{
+    margin-left: 50px;
+    font-size: 50px;
+    color: green;
+}
+
+.head_info{
+    font-size: 25px;
+    line-height: 35px;
+    margin-left: 13%;
+    /* text-align: center; */
+}
+
+.head_h2{
+    font-size: 20px;
+    margin-left: 130px;
+    color: white;
+}
+
+.head_h3{
+    margin-top: 0px;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
+
+.detail{
+    border: 2px solid white;
+    margin-right: 60%;
+}
